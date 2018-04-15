@@ -6,6 +6,15 @@ https://en.wikipedia.org/wiki/Jinn
 
 Welcome, let's generate some words!
 
+Here's an example from text generated from a Shelley model:
+
+```
+At last from a marble bed-- 
+Roses for a matron's head-- 
+Violets by dark who die, and grove 
+From the world's carnival. 
+```
+
 ## Prepare data
 
 Assumes project Gutenburg text files.
